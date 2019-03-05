@@ -1,7 +1,7 @@
 ---
 layout: default
 img: wall_close.png
-category: Services
+category: About Me
 title: Why Vote Fifi?
 description: |
 ---
