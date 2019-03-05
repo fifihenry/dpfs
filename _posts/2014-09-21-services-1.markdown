@@ -1,14 +1,8 @@
 ---
 layout: default
-img: wall_close.png
+img: wall_big.png
 category: About Me
-title: Why Vote Fifi?
+title: Who am I?
 description: |
 ---
-With 3 years of bar experience, including a year as a manager at Beit Bars, I have valuable knowledge and experience in:
-
-1. Union finances
-2. Events and services at Beit Bars
-3. Dedication to the student experience
-
-So if you want a DPFS who knows what works and understands what the students want, Vote Fifi!
+Hi! My name is Fifi, I am a third year Materials Engineer and I am running for DPFS. This role requires experience, dedication and trust between the sabbatical officers and you, the students. With 3 years of bar experience, including a year as a manager at Beit Bars, I have valuable knowledge in union finances, events and services at Union outlets, and an unwavering dedication to the student experience. I know what works, what the students want, and how to deliver it.
