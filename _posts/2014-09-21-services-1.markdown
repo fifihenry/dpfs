@@ -1,8 +1,14 @@
 ---
 layout: default
-img: ipad.png
+img: wall_close.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Why Vote Fifi?
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+With 3 years of bar experience, including a year as a manager at Beit Bars, I have valuable knowledge and experience in:
+
+1. Union finances
+2. Events and services at Beit Bars
+3. Dedication to the student experience
+
+So if you want a DPFS who knows what works and understands what the students want, Vote Fifi!
