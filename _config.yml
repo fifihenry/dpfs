@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://fifihenry.github.io/dpfs/#services
+url: https://fifihenry.github.io/dpfs
 title: Fifi for DPFS
 email: fifihenry73@gmail.com
 author: Fifi Henry
-description: > # "Write an awesome description for your new site here. 
+description: > # "Write an awesome description for your new site here.
   Vote Fifi for DPFS!
 copyright: 'Copyright &copy; 2019 Fifi Henry. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
