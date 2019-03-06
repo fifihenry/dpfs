@@ -4,6 +4,7 @@ img: wall_big.png
 category: Manifesto
 title: Read My Manifesto
 description: |
+---
 Here are my promises to you:
 
 - Bars: Lobby against changes to food and drink policies, including evening food service at h-bar and improving staff benefits. Improve sustainability by reducing food and plastic waste. Introduce new club nights with a range of drinks deals.
