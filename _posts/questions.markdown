@@ -1,7 +1,7 @@
 ---
 layout: default
 img: tree.png
-category: Questions
+category: Posts
 title: Send me your questions!
 description: |
 ---

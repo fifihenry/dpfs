@@ -1,7 +1,7 @@
 ---
 layout: default
 img: wall_big.png
-category: Manifesto
+category: Posts
 title: Read My Manifesto
 description: |
 ---
