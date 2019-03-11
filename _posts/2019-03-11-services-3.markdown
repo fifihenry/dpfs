@@ -1,0 +1,7 @@
+---
+layout: default
+category: Posts
+title: Voting Opens Today at 12pm!
+description: |
+---
+Hello, and thanks for checking out my website! Voting opens today, March 11, at 12. Just click [here](https://vote.union.ic.ac.uk/) to get started!
